@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Masuk ke menu About Us</description>
+   <name>ABS01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>05b5290d-c7d0-4f83-b09f-15dc1d26d3a6</testCaseGuid>
+</TestCaseEntity>

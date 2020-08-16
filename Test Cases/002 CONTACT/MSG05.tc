@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kirim pesan dengan contact email tidak di isi</description>
+   <name>MSG05</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2bedff4-11d4-4b85-9b31-67e6859f92d1</testCaseGuid>
+</TestCaseEntity>

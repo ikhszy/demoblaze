@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Batal kirim pesan dengan klik tombol X</description>
+   <name>MSG04</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63e520f3-d9ce-4e20-9d6b-3c71c5265cf0</testCaseGuid>
+</TestCaseEntity>

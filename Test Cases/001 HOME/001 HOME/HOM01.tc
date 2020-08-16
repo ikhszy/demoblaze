@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Akses ke menu Home</description>
+   <name>HOM01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9e9cb67-c974-4953-8a97-53099e25f0c0</testCaseGuid>
+</TestCaseEntity>

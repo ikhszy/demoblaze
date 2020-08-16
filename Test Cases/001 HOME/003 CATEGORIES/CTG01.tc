@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pindah ke kategori Phones</description>
+   <name>CTG01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cdb1a8c0-4e29-4229-bdf9-6f15801c8dcc</testCaseGuid>
+</TestCaseEntity>

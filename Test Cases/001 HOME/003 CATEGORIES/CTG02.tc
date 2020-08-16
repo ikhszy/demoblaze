@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pindah ke kategori Laptops</description>
+   <name>CTG02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bcd27ca1-94ce-4ed1-995d-8e2bde33bd25</testCaseGuid>
+</TestCaseEntity>

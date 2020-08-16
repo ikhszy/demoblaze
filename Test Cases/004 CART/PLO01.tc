@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Masuk ke menu About Us</description>
+   <name>PLO01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3911aa6-6dd4-492d-873e-fb1515d01fda</testCaseGuid>
+</TestCaseEntity>

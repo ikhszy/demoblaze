@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Akses fitur Message</description>
+   <name>MSG02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a85b04a9-22c2-47da-9cd4-c0ed2b2520a1</testCaseGuid>
+</TestCaseEntity>

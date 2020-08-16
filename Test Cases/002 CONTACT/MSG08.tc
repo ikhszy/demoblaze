@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kirim pesan dengan format email tidak sesuai</description>
+   <name>MSG08</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>37f53901-f076-4fe4-bb9c-73e00e21da80</testCaseGuid>
+</TestCaseEntity>

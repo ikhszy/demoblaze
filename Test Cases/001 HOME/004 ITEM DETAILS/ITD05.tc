@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melihat Detail Laptops</description>
+   <name>ITD05</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a11988e1-3483-4282-9a36-d30b0bfdb98f</testCaseGuid>
+</TestCaseEntity>
